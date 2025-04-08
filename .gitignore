@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pth
+*.csv
+model_weights.pth
+data_daily.csv
