@@ -24,4 +24,5 @@ Docker,
 ```bash
 docker pull heni29/receipt-forecast-app
 docker run -p 8501:8501 heni29/receipt-forecast-app
+```
 Then open: http://localhost:8501 in your browser
