@@ -13,11 +13,11 @@ Features: time trend + one-hot encoded months
 
 ## Technologies Used
 
-Python 3.9
-PyTorch
-Pandas, NumPy
-Streamlit
-Docker
+Python 3.9,
+PyTorch,
+Pandas, NumPy,
+Streamlit,
+Docker,
 
 ## Run via Docker (No setup required)
 
