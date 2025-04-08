@@ -7,17 +7,18 @@ https://hub.docker.com/r/heni29/receipt-forecast-app
 
 ## Model Details
 
-Built with PyTorch
-Manual training using gradient descent
-Features: time trend + one-hot encoded months
+- Built with PyTorch
+- Manual training using gradient descent
+- Features: time trend + one-hot encoded months
 
 ## Technologies Used
 
-Python 3.9,
-PyTorch,
-Pandas, NumPy,
-Streamlit,
-Docker,
+- Python 3.9,
+- PyTorch,
+- Pandas, 
+- NumPy,
+- Streamlit,
+- Docker
 
 ## Run via Docker (No setup required)
 
